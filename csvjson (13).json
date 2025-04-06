@@ -1,0 +1,4972 @@
+[
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hello",
+    "Spanish": "Hola"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hi",
+    "Spanish": "Hola"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good morning",
+    "Spanish": "Buenos días"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good afternoon",
+    "Spanish": "Buenas tardes"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good evening",
+    "Spanish": "Buenas noches"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good night",
+    "Spanish": "Buenas noches"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Goodbye",
+    "Spanish": "Adiós"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "See you later",
+    "Spanish": "Nos vemos luego"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Bye bye",
+    "Spanish": "Chao"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Take care",
+    "Spanish": "Cuídate"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please",
+    "Spanish": "Por favor"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you",
+    "Spanish": "Gracias"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thanks a lot",
+    "Spanish": "Muchas gracias"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "You’re welcome",
+    "Spanish": "De nada"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "No problem",
+    "Spanish": "No hay problema"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Excuse me",
+    "Spanish": "Perdón"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m sorry",
+    "Spanish": "Lo siento"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Pardon me",
+    "Spanish": "Disculpa"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Forgive me",
+    "Spanish": "Perdóname"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "How are you?",
+    "Spanish": "¿Cómo estás?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m fine",
+    "Spanish": "Estoy bien"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "And you?",
+    "Spanish": "¿Y tú?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Nice to meet you",
+    "Spanish": "Encantado de conocerte"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "It’s a pleasure",
+    "Spanish": "Es un placer"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have a good day",
+    "Spanish": "Que tengas un buen día"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good luck",
+    "Spanish": "Buena suerte"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Welcome",
+    "Spanish": "Bienvenido"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hello everyone",
+    "Spanish": "Hola a todos"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hi there",
+    "Spanish": "Hola ahí"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "See you soon",
+    "Spanish": "Nos vemos pronto"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Take it easy",
+    "Spanish": "Tómalo con calma"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "How’s it going?",
+    "Spanish": "¿Cómo va todo?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I hope you’re well",
+    "Spanish": "Espero que estés bien"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you very much",
+    "Spanish": "Muchas gracias"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, go ahead",
+    "Spanish": "Por favor, adelante"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "After you",
+    "Spanish": "Después de ti"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Excuse me, sir",
+    "Spanish": "Disculpe, señor"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Excuse me, madam",
+    "Spanish": "Disculpe, señora"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I apologize",
+    "Spanish": "Me disculpo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "No worries",
+    "Spanish": "No te preocupes"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have a nice evening",
+    "Spanish": "Que tengas una buena noche"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Sleep well",
+    "Spanish": "Duerme bien"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "See you tomorrow",
+    "Spanish": "Nos vemos mañana"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hello again",
+    "Spanish": "Hola de nuevo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hey, how are you?",
+    "Spanish": "Oye, ¿cómo estás?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m so sorry",
+    "Spanish": "Lo siento mucho"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, help me",
+    "Spanish": "Por favor, ayúdame"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you for your help",
+    "Spanish": "Gracias por tu ayuda"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "You’re so kind",
+    "Spanish": "Eres muy amable"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "It’s nice to see you",
+    "Spanish": "Es bueno verte"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have a great day",
+    "Spanish": "Que tengas un gran día"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good to see you",
+    "Spanish": "Me alegra verte"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, come in",
+    "Spanish": "Por favor, entra"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Make yourself at home",
+    "Spanish": "Siéntete como en casa"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "How’s your day?",
+    "Spanish": "¿Cómo está tu día?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m glad you’re here",
+    "Spanish": "Me alegra que estés aquí"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you, sir",
+    "Spanish": "Gracias, señor"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you, madam",
+    "Spanish": "Gracias, señora"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, wait",
+    "Spanish": "Por favor, espera"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "See you next time",
+    "Spanish": "Nos vemos la próxima vez"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Take your time",
+    "Spanish": "Tómate tu tiempo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hello, my friend",
+    "Spanish": "Hola, amigo mío"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I appreciate it",
+    "Spanish": "Lo aprecio"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, sit down",
+    "Spanish": "Por favor, siéntate"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have a safe trip",
+    "Spanish": "Que tengas un viaje seguro"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good to hear from you",
+    "Spanish": "Qué bueno saber de ti"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Sorry to bother you",
+    "Spanish": "Perdón por molestarte"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, excuse me",
+    "Spanish": "Por favor, discúlpame"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you for coming",
+    "Spanish": "Gracias por venir"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Enjoy your day",
+    "Spanish": "Disfruta tu día"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "See you around",
+    "Spanish": "Nos vemos por ahí"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hi, nice to see you",
+    "Spanish": "Hola, qué bueno verte"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m happy to meet you",
+    "Spanish": "Estoy feliz de conocerte"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, take a seat",
+    "Spanish": "Por favor, toma asiento"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have a wonderful day",
+    "Spanish": "Que tengas un día maravilloso"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good day",
+    "Spanish": "Buen día"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hello, how’s everything?",
+    "Spanish": "Hola, ¿cómo está todo?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thanks for everything",
+    "Spanish": "Gracias por todo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "You’re very welcome",
+    "Spanish": "Es un placer"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Sorry for the delay",
+    "Spanish": "Perdón por el retraso"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, don’t worry",
+    "Spanish": "Por favor, no te preocupes"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "It’s my pleasure",
+    "Spanish": "Es mi placer"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have a good night",
+    "Spanish": "Que tengas una buena noche"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "See you in a bit",
+    "Spanish": "Nos vemos en un rato"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hello, good to see you",
+    "Spanish": "Hola, qué bueno verte"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you so much",
+    "Spanish": "Muchísimas gracias"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, let me know",
+    "Spanish": "Por favor, avísame"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Sorry, my mistake",
+    "Spanish": "Perdón, mi error"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have a nice trip",
+    "Spanish": "Que tengas un buen viaje"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good afternoon, everyone",
+    "Spanish": "Buenas tardes a todos"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hi, how’s your day?",
+    "Spanish": "Hola, ¿cómo está tu día?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thanks for waiting",
+    "Spanish": "Gracias por esperar"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, be careful",
+    "Spanish": "Por favor, ten cuidado"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m sorry to hear that",
+    "Spanish": "Lamento escuchar eso"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Welcome back",
+    "Spanish": "Bienvenido de nuevo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have fun",
+    "Spanish": "Diviértete"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "See you next week",
+    "Spanish": "Nos vemos la próxima semana"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hello, welcome",
+    "Spanish": "Hola, bienvenido"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you, my friend",
+    "Spanish": "Gracias, amigo mío"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please, enjoy",
+    "Spanish": "Por favor, disfruta"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I wake up",
+    "Spanish": "Me despierto"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I get up",
+    "Spanish": "Me levanto"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I take a shower",
+    "Spanish": "Me ducho"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I brush my teeth",
+    "Spanish": "Me cepillo los dientes"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I wash my face",
+    "Spanish": "Me lavo la cara"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I get dressed",
+    "Spanish": "Me visto"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I eat breakfast",
+    "Spanish": "Desayuno"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I drink coffee",
+    "Spanish": "Tomo café"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I go to work",
+    "Spanish": "Voy al trabajo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I drive to work",
+    "Spanish": "Conduzco al trabajo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I take the bus",
+    "Spanish": "Tomo el autobús"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I walk to school",
+    "Spanish": "Camino a la escuela"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I study",
+    "Spanish": "Estudio"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I read a book",
+    "Spanish": "Leo un libro"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I write an email",
+    "Spanish": "Escribo un correo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I call my friend",
+    "Spanish": "Llamo a mi amigo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I listen to music",
+    "Spanish": "Escucho música"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I watch TV",
+    "Spanish": "Veo televisión"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I play a game",
+    "Spanish": "Juego un juego"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I exercise",
+    "Spanish": "Hago ejercicio"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I run in the park",
+    "Spanish": "Corro en el parque"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I cook lunch",
+    "Spanish": "Cocino el almuerzo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I eat lunch",
+    "Spanish": "Almuerzo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I wash the dishes",
+    "Spanish": "Lavo los platos"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I clean the house",
+    "Spanish": "Limpio la casa"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I vacuum the floor",
+    "Spanish": "Aspiro el suelo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I do laundry",
+    "Spanish": "Hago la colada"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I iron my clothes",
+    "Spanish": "Plancho mi ropa"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I go shopping",
+    "Spanish": "Voy de compras"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I buy groceries",
+    "Spanish": "Compro comida"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I cook dinner",
+    "Spanish": "Cocino la cena"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I eat dinner",
+    "Spanish": "Ceno"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I relax",
+    "Spanish": "Me relajo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I take a nap",
+    "Spanish": "Tomo una siesta"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I go for a walk",
+    "Spanish": "Salgo a caminar"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I ride my bike",
+    "Spanish": "Monto mi bicicleta"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I water the plants",
+    "Spanish": "Riego las plantas"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I feed the dog",
+    "Spanish": "Alimento al perro"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I check my phone",
+    "Spanish": "Reviso mi teléfono"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I send a message",
+    "Spanish": "Envío un mensaje"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I talk to my family",
+    "Spanish": "Hablo con mi familia"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I visit my friend",
+    "Spanish": "Visito a mi amigo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I go to the gym",
+    "Spanish": "Voy al gimnasio"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I swim",
+    "Spanish": "Nado"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I stretch",
+    "Spanish": "Me estiro"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I meditate",
+    "Spanish": "Medito"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I plan my day",
+    "Spanish": "Planeo mi día"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I finish my work",
+    "Spanish": "Termino mi trabajo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I leave the office",
+    "Spanish": "Salgo de la oficina"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I come home",
+    "Spanish": "Llego a casa"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I change my clothes",
+    "Spanish": "Me cambio de ropa"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I take off my shoes",
+    "Spanish": "Me quito los zapatos"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I turn on the light",
+    "Spanish": "Enciendo la luz"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I open the window",
+    "Spanish": "Abro la ventana"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I close the door",
+    "Spanish": "Cierro la puerta"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I charge my phone",
+    "Spanish": "Cargo mi teléfono"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I set the alarm",
+    "Spanish": "Pongo la alarma"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I go to bed",
+    "Spanish": "Me voy a la cama"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I fall asleep",
+    "Spanish": "Me duermo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I dream",
+    "Spanish": "Sueño"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I wake up early",
+    "Spanish": "Me despierto temprano"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I stay up late",
+    "Spanish": "Me quedo despierto hasta tarde"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I take a bath",
+    "Spanish": "Tomo un baño"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I dry my hair",
+    "Spanish": "Me seco el pelo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I comb my hair",
+    "Spanish": "Me peino el pelo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I make my bed",
+    "Spanish": "Hago mi cama"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I turn off the TV",
+    "Spanish": "Apago la televisión"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I lock the door",
+    "Spanish": "Cierro la puerta con llave"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I sweep the floor",
+    "Spanish": "Barro el suelo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I mop the floor",
+    "Spanish": "Friego el suelo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I dust the furniture",
+    "Spanish": "Limpio el polvo de los muebles"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I take out the trash",
+    "Spanish": "Saco la basura"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I recycle",
+    "Spanish": "Reciclo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I organize my desk",
+    "Spanish": "Organizo mi escritorio"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I pack my bag",
+    "Spanish": "Empaco mi mochila"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I check the mail",
+    "Spanish": "Reviso el correo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I water the garden",
+    "Spanish": "Riego el jardín"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I fix something",
+    "Spanish": "Arreglo algo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I paint the wall",
+    "Spanish": "Pinto la pared"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I listen to the radio",
+    "Spanish": "Escucho la radio"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I dance",
+    "Spanish": "Bailo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I sing a song",
+    "Spanish": "Canto una canción"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I take photos",
+    "Spanish": "Tomo fotos"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I draw a picture",
+    "Spanish": "Dibujo un dibujo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I play the guitar",
+    "Spanish": "Toco la guitarra"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I bake a cake",
+    "Spanish": "Horno un pastel"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I knit a scarf",
+    "Spanish": "Tejo una bufanda"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I sew a button",
+    "Spanish": "Coso un botón"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I plant a flower",
+    "Spanish": "Planto una flor"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I wait for the bus",
+    "Spanish": "Espero el autobús"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I arrive on time",
+    "Spanish": "Llego a tiempo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I miss the train",
+    "Spanish": "Pierdo el tren"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I rest for a while",
+    "Spanish": "Descanso un rato"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I stretch my legs",
+    "Spanish": "Estiro las piernas"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I yawn",
+    "Spanish": "Bostezo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I sneeze",
+    "Spanish": "Estornudo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I cough",
+    "Spanish": "Toso"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I smile",
+    "Spanish": "Sonrío"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I laugh",
+    "Spanish": "Me río"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I cry",
+    "Spanish": "Lloro"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m hungry",
+    "Spanish": "Tengo hambre"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m thirsty",
+    "Spanish": "Tengo sed"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want to eat",
+    "Spanish": "Quiero comer"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want to drink",
+    "Spanish": "Quiero beber"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "Can I have water?",
+    "Spanish": "¿Puedo tener agua?"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like coffee",
+    "Spanish": "Me gusta el café"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I drink tea",
+    "Spanish": "Tomo té"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "This is delicious",
+    "Spanish": "Esto es delicioso"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "It tastes good",
+    "Spanish": "Sabe bien"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m full",
+    "Spanish": "Estoy lleno"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "The bill, please",
+    "Spanish": "La cuenta, por favor"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "Do you have bread?",
+    "Spanish": "¿Tienes pan?"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I need a fork",
+    "Spanish": "Necesito un tenedor"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "Pass the salt",
+    "Spanish": "Pásame la sal"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I don’t like spicy food",
+    "Spanish": "No me gusta la comida picante"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m allergic to nuts",
+    "Spanish": "Soy alérgico a los frutos secos"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "Can I have a menu?",
+    "Spanish": "¿Puedo tener un menú?"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’ll have chicken",
+    "Spanish": "Voy a pedir pollo"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want rice",
+    "Spanish": "Quiero arroz"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "More water, please",
+    "Spanish": "Más agua, por favor"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like fruit",
+    "Spanish": "Me gusta la fruta"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat vegetables",
+    "Spanish": "Como verduras"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I love chocolate",
+    "Spanish": "Amo el chocolate"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I drink juice",
+    "Spanish": "Tomo jugo"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "It’s too salty",
+    "Spanish": "Está muy salado"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "It’s too sweet",
+    "Spanish": "Está muy dulce"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m on a diet",
+    "Spanish": "Estoy a dieta"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I cook every day",
+    "Spanish": "Cocino todos los días"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I bake cookies",
+    "Spanish": "Horno galletas"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want a sandwich",
+    "Spanish": "Quiero un sándwich"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "Do you have soup?",
+    "Spanish": "¿Tienes sopa?"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like pizza",
+    "Spanish": "Me gusta la pizza"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat slowly",
+    "Spanish": "Como despacio"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m still hungry",
+    "Spanish": "Todavía tengo hambre"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "Can I have more?",
+    "Spanish": "¿Puedo tener más?"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I don’t eat meat",
+    "Spanish": "No como carne"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I prefer fish",
+    "Spanish": "Prefiero pescado"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "It’s hot",
+    "Spanish": "Está caliente"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "It’s cold",
+    "Spanish": "Está frío"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I need a spoon",
+    "Spanish": "Necesito una cuchara"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want dessert",
+    "Spanish": "Quiero postre"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like ice cream",
+    "Spanish": "Me gusta el helado"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I drink milk",
+    "Spanish": "Tomo leche"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat eggs",
+    "Spanish": "Como huevos"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m cooking dinner",
+    "Spanish": "Estoy cocinando la cena"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’ll try it",
+    "Spanish": "Lo voy a probar"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "It smells good",
+    "Spanish": "Huele bien"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I don’t like it",
+    "Spanish": "No me gusta"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "Can I have a Coke?",
+    "Spanish": "¿Puedo tener una Coca-Cola?"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want a salad",
+    "Spanish": "Quiero una ensalada"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat pasta",
+    "Spanish": "Como pasta"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I need a knife",
+    "Spanish": "Necesito un cuchillo"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like cheese",
+    "Spanish": "Me gusta el queso"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I drink wine",
+    "Spanish": "Tomo vino"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m finished",
+    "Spanish": "Terminé"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "It’s tasty",
+    "Spanish": "Está sabroso"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want soup",
+    "Spanish": "Quiero sopa"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "Do you have dessert?",
+    "Spanish": "¿Tienes postre?"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like spicy food",
+    "Spanish": "Me gusta la comida picante"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat fast",
+    "Spanish": "Como rápido"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m eating now",
+    "Spanish": "Estoy comiendo ahora"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want a snack",
+    "Spanish": "Quiero un bocadillo"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like soda",
+    "Spanish": "Me gusta el refresco"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I drink beer",
+    "Spanish": "Tomo cerveza"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I need a napkin",
+    "Spanish": "Necesito una servilleta"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want bread",
+    "Spanish": "Quiero pan"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat rice",
+    "Spanish": "Como arroz"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like soup",
+    "Spanish": "Me gusta la sopa"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m not hungry",
+    "Spanish": "No tengo hambre"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I don’t drink coffee",
+    "Spanish": "No tomo café"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want fruit",
+    "Spanish": "Quiero fruta"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat chicken",
+    "Spanish": "Como pollo"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like cake",
+    "Spanish": "Me gusta el pastel"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I drink water every day",
+    "Spanish": "Tomo agua todos los días"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m making lunch",
+    "Spanish": "Estoy haciendo el almuerzo"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want a burger",
+    "Spanish": "Quiero una hamburguesa"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like fries",
+    "Spanish": "Me gustan las papas fritas"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat fish",
+    "Spanish": "Como pescado"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I don’t like tea",
+    "Spanish": "No me gusta el té"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want something sweet",
+    "Spanish": "Quiero algo dulce"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I’m thirsty now",
+    "Spanish": "Tengo sed ahora"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat breakfast early",
+    "Spanish": "Desayuno temprano"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like butter",
+    "Spanish": "Me gusta la mantequilla"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I drink orange juice",
+    "Spanish": "Tomo jugo de naranja"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want a drink",
+    "Spanish": "Quiero una bebida"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat dinner late",
+    "Spanish": "Ceno tarde"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like olives",
+    "Spanish": "Me gustan las aceitunas"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I don’t eat sugar",
+    "Spanish": "No como azúcar"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want a coffee",
+    "Spanish": "Quiero un café"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat snacks",
+    "Spanish": "Como bocadillos"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like honey",
+    "Spanish": "Me gusta la miel"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I drink soda",
+    "Spanish": "Tomo refresco"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat bread every day",
+    "Spanish": "Como pan todos los días"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want something cold",
+    "Spanish": "Quiero algo frío"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like yogurt",
+    "Spanish": "Me gusta el yogur"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I don’t drink alcohol",
+    "Spanish": "No tomo alcohol"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I eat fruit every morning",
+    "Spanish": "Como fruta todas las mañanas"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I want a hot drink",
+    "Spanish": "Quiero una bebida caliente"
+  },
+  {
+    "Category": "Food & Drink",
+    "English": "I like this food",
+    "Spanish": "Me gusta esta comida"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the bathroom?",
+    "Spanish": "¿Dónde está el baño?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Turn left",
+    "Spanish": "Gira a la izquierda"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Turn right",
+    "Spanish": "Gira a la derecha"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Go straight",
+    "Spanish": "Sigue recto"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m lost",
+    "Spanish": "Estoy perdido"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "How far is it?",
+    "Spanish": "¿Qué tan lejos está?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need a taxi",
+    "Spanish": "Necesito un taxi"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the hotel?",
+    "Spanish": "¿Dónde está el hotel?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Take me to the airport",
+    "Spanish": "Llévame al aeropuerto"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Is it near here?",
+    "Spanish": "¿Está cerca de aquí?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Show me the map",
+    "Spanish": "Muéstrame el mapa"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I want to go home",
+    "Spanish": "Quiero ir a casa"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the bus stop?",
+    "Spanish": "¿Dónde está la parada de autobús?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "How do I get there?",
+    "Spanish": "¿Cómo llego ahí?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I missed the train",
+    "Spanish": "Perdí el tren"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "What time is the flight?",
+    "Spanish": "¿A qué hora es el vuelo?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need a ticket",
+    "Spanish": "Necesito un boleto"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the station?",
+    "Spanish": "¿Dónde está la estación?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Go back",
+    "Spanish": "Regresa"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "It’s over there",
+    "Spanish": "Está por allá"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m traveling today",
+    "Spanish": "Viajo hoy"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the exit?",
+    "Spanish": "¿Dónde está la salida?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need directions",
+    "Spanish": "Necesito direcciones"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Is it far?",
+    "Spanish": "¿Está lejos?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Take the next street",
+    "Spanish": "Toma la próxima calle"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going to the city",
+    "Spanish": "Voy a la ciudad"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the parking lot?",
+    "Spanish": "¿Dónde está el estacionamiento?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I want a map",
+    "Spanish": "Quiero un mapa"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "How long does it take?",
+    "Spanish": "¿Cuánto tiempo toma?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m late",
+    "Spanish": "Llego tarde"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the entrance?",
+    "Spanish": "¿Dónde está la entrada?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need to hurry",
+    "Spanish": "Necesito apurarme"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Can you help me?",
+    "Spanish": "¿Puedes ayudarme?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m looking for the museum",
+    "Spanish": "Busco el museo"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Which way is it?",
+    "Spanish": "¿Por dónde es?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I take the subway",
+    "Spanish": "Tomo el metro"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the gate?",
+    "Spanish": "¿Dónde está la puerta?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going on vacation",
+    "Spanish": "Voy de vacaciones"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Is this the right way?",
+    "Spanish": "¿Es este el camino correcto?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need a ride",
+    "Spanish": "Necesito un aventón"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the beach?",
+    "Spanish": "¿Dónde está la playa?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m driving",
+    "Spanish": "Estoy manejando"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Stop here",
+    "Spanish": "Para aquí"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I want to rent a car",
+    "Spanish": "Quiero rentar un carro"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "How much is the fare?",
+    "Spanish": "¿Cuánto cuesta el pasaje?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m at the airport",
+    "Spanish": "Estoy en el aeropuerto"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the taxi stand?",
+    "Spanish": "¿Dónde está la parada de taxis?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need to check in",
+    "Spanish": "Necesito registrarme"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the platform?",
+    "Spanish": "¿Dónde está el andén?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going north",
+    "Spanish": "Voy al norte"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Go south",
+    "Spanish": "Ve al sur"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Turn around",
+    "Spanish": "Da la vuelta"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m walking",
+    "Spanish": "Estoy caminando"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the bridge?",
+    "Spanish": "¿Dónde está el puente?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need a bus ticket",
+    "Spanish": "Necesito un boleto de autobús"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Is it close?",
+    "Spanish": "¿Está cerca?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going to the park",
+    "Spanish": "Voy al parque"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the road?",
+    "Spanish": "¿Dónde está el camino?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m taking a trip",
+    "Spanish": "Estoy haciendo un viaje"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the train?",
+    "Spanish": "¿Dónde está el tren?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need to leave",
+    "Spanish": "Necesito irme"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "How do I find it?",
+    "Spanish": "¿Cómo lo encuentro?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going downtown",
+    "Spanish": "Voy al centro"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the restroom?",
+    "Spanish": "¿Dónde está el sanitario?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m traveling alone",
+    "Spanish": "Viajo solo"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Take me there",
+    "Spanish": "Llévame ahí"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going by car",
+    "Spanish": "Voy en carro"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the highway?",
+    "Spanish": "¿Dónde está la carretera?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need a guide",
+    "Spanish": "Necesito un guía"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Is this the stop?",
+    "Spanish": "¿Es esta la parada?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going to the mountains",
+    "Spanish": "Voy a las montañas"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the ticket office?",
+    "Spanish": "¿Dónde está la taquilla?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m arriving soon",
+    "Spanish": "Llego pronto"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Go past the church",
+    "Spanish": "Pasa la iglesia"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going to the station",
+    "Spanish": "Voy a la estación"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the port?",
+    "Spanish": "¿Dónde está el puerto?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need a hotel",
+    "Spanish": "Necesito un hotel"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "How do I get home?",
+    "Spanish": "¿Cómo llego a casa?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going east",
+    "Spanish": "Voy al este"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Go west",
+    "Spanish": "Ve al oeste"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m on the bus",
+    "Spanish": "Estoy en el autobús"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the market?",
+    "Spanish": "¿Dónde está el mercado?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need to catch a flight",
+    "Spanish": "Necesito tomar un vuelo"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Is it straight ahead?",
+    "Spanish": "¿Es derecho?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going to the lake",
+    "Spanish": "Voy al lago"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the ferry?",
+    "Spanish": "¿Dónde está el ferry?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need a passport",
+    "Spanish": "Necesito un pasaporte"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going abroad",
+    "Spanish": "Voy al extranjero"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the border?",
+    "Spanish": "¿Dónde está la frontera?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m taking a taxi",
+    "Spanish": "Tomo un taxi"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "How do I get to the hotel?",
+    "Spanish": "¿Cómo llego al hotel?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going to the square",
+    "Spanish": "Voy a la plaza"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the tourist office?",
+    "Spanish": "¿Dónde está la oficina de turismo?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I need a suitcase",
+    "Spanish": "Necesito una maleta"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going by train",
+    "Spanish": "Voy en tren"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Where is the next stop?",
+    "Spanish": "¿Dónde está la próxima parada?"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m traveling with friends",
+    "Spanish": "Viajo con amigos"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "Take the second left",
+    "Spanish": "Toma la segunda a la izquierda"
+  },
+  {
+    "Category": "Travel & Directions",
+    "English": "I’m going to the river",
+    "Spanish": "Voy al río"
+  },
+  {
+    "Category": "Shopping",
+    "English": "How much is this?",
+    "Spanish": "¿Cuánto cuesta esto?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want to buy it",
+    "Spanish": "Quiero comprarlo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you accept cards?",
+    "Spanish": "¿Aceptan tarjetas?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s too expensive",
+    "Spanish": "Es demasiado caro"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you lower the price?",
+    "Spanish": "¿Puedes bajar el precio?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a bag",
+    "Spanish": "Necesito una bolsa"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where is the store?",
+    "Spanish": "¿Dónde está la tienda?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’m just looking",
+    "Spanish": "Solo estoy mirando"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in blue?",
+    "Spanish": "¿Tienes esto en azul?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll take it",
+    "Spanish": "Lo voy a llevar"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I try it on?",
+    "Spanish": "¿Puedo probármelo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s a good deal",
+    "Spanish": "Es una buena oferta"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need change",
+    "Spanish": "Necesito cambio"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where is the cashier?",
+    "Spanish": "¿Dónde está la caja?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want a receipt",
+    "Spanish": "Quiero un recibo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in small?",
+    "Spanish": "¿Tienes esto en pequeño?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s on sale",
+    "Spanish": "Está en oferta"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’m buying a gift",
+    "Spanish": "Estoy comprando un regalo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "How much is that?",
+    "Spanish": "¿Cuánto cuesta eso?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I don’t have cash",
+    "Spanish": "No tengo efectivo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I pay with my phone?",
+    "Spanish": "¿Puedo pagar con mi teléfono?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a bigger size",
+    "Spanish": "Necesito una talla más grande"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s very cheap",
+    "Spanish": "Es muy barato"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where are the shoes?",
+    "Spanish": "¿Dónde están los zapatos?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I like this one",
+    "Spanish": "Me gusta este"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have more?",
+    "Spanish": "¿Tienes más?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’m shopping for clothes",
+    "Spanish": "Estoy comprando ropa"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you help me?",
+    "Spanish": "¿Puedes ayudarme?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a smaller size",
+    "Spanish": "Necesito una talla más pequeña"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where is the fitting room?",
+    "Spanish": "¿Dónde está el probador?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll pay now",
+    "Spanish": "Voy a pagar ahora"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It fits well",
+    "Spanish": "Me queda bien"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I don’t like the color",
+    "Spanish": "No me gusta el color"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have another one?",
+    "Spanish": "¿Tienes otro?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll think about it",
+    "Spanish": "Lo voy a pensar"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s out of stock",
+    "Spanish": "No hay en existencia"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I return it?",
+    "Spanish": "¿Puedo devolverlo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a discount",
+    "Spanish": "Necesito un descuento"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where are the groceries?",
+    "Spanish": "¿Dónde están los comestibles?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want to order online",
+    "Spanish": "Quiero pedir en línea"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s my size",
+    "Spanish": "Es mi talla"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you deliver?",
+    "Spanish": "¿Haces envíos?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’m looking for a bag",
+    "Spanish": "Busco una bolsa"
+  },
+  {
+    "Category": "Shopping",
+    "English": "How much is the total?",
+    "Spanish": "¿Cuánto es el total?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll come back later",
+    "Spanish": "Volveré más tarde"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have black ones?",
+    "Spanish": "¿Tienes en negro?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a new phone",
+    "Spanish": "Necesito un teléfono nuevo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s a nice price",
+    "Spanish": "Es un buen precio"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where is the sale section?",
+    "Spanish": "¿Dónde está la sección de ofertas?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want two of these",
+    "Spanish": "Quiero dos de estos"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you wrap it?",
+    "Spanish": "¿Puedes envolverlo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I don’t need a bag",
+    "Spanish": "No necesito bolsa"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s a little big",
+    "Spanish": "Es un poco grande"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have red ones?",
+    "Spanish": "¿Tienes en rojo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’m buying food",
+    "Spanish": "Estoy comprando comida"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where are the books?",
+    "Spanish": "¿Dónde están los libros?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll pay with cash",
+    "Spanish": "Voy a pagar con efectivo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s not my style",
+    "Spanish": "No es mi estilo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in green?",
+    "Spanish": "¿Tienes esto en verde?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a jacket",
+    "Spanish": "Necesito una chaqueta"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I see that one?",
+    "Spanish": "¿Puedo ver ese?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s a good brand",
+    "Spanish": "Es una buena marca"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where is the electronics section?",
+    "Spanish": "¿Dónde está la sección de electrónicos?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want something cheap",
+    "Spanish": "Quiero algo barato"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have batteries?",
+    "Spanish": "¿Tienes pilas?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll take both",
+    "Spanish": "Me llevo los dos"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you check the price?",
+    "Spanish": "¿Puedes checar el precio?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a hat",
+    "Spanish": "Necesito un sombrero"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s too small",
+    "Spanish": "Es demasiado pequeño"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where are the toys?",
+    "Spanish": "¿Dónde están los juguetes?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’m shopping for a friend",
+    "Spanish": "Estoy comprando para un amigo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have socks?",
+    "Spanish": "¿Tienes calcetines?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want a watch",
+    "Spanish": "Quiero un reloj"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I pay later?",
+    "Spanish": "¿Puedo pagar después?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s a special offer",
+    "Spanish": "Es una oferta especial"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need gloves",
+    "Spanish": "Necesito guantes"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where is the jewelry?",
+    "Spanish": "¿Dónde está la joyería?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll buy it online",
+    "Spanish": "Lo compraré en línea"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have shirts?",
+    "Spanish": "¿Tienes camisas?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want a pair of pants",
+    "Spanish": "Quiero un par de pantalones"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you hold it for me?",
+    "Spanish": "¿Puedes guardármelo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s a good fit",
+    "Spanish": "Me queda bien"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where are the bags?",
+    "Spanish": "¿Dónde están las bolsas?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a belt",
+    "Spanish": "Necesito un cinturón"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have glasses?",
+    "Spanish": "¿Tienes lentes?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want something new",
+    "Spanish": "Quiero algo nuevo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I get a refund?",
+    "Spanish": "¿Puedo obtener un reembolso?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s my favorite store",
+    "Spanish": "Es mi tienda favorita"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where are the discounts?",
+    "Spanish": "¿Dónde están los descuentos?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a scarf",
+    "Spanish": "Necesito una bufanda"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have headphones?",
+    "Spanish": "¿Tienes audífonos?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll take the red one",
+    "Spanish": "Me llevo el rojo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you find it for me?",
+    "Spanish": "¿Puedes encontrarlo por mí?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s a little expensive",
+    "Spanish": "Es un poco caro"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where is the checkout?",
+    "Spanish": "¿Dónde está la caja?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a new wallet",
+    "Spanish": "Necesito una cartera nueva"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have ties?",
+    "Spanish": "¿Tienes corbatas?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want this one",
+    "Spanish": "Quiero este"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I have a bag?",
+    "Spanish": "¿Puedo tener una bolsa?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s perfect",
+    "Spanish": "Es perfecto"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I love you",
+    "Spanish": "Te amo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My mother",
+    "Spanish": "Mi madre"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My father",
+    "Spanish": "Mi padre"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My brother",
+    "Spanish": "Mi hermano"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My sister",
+    "Spanish": "Mi hermana"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My friend",
+    "Spanish": "Mi amigo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I miss you",
+    "Spanish": "Te extraño"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "Are you married?",
+    "Spanish": "¿Estás casado?"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have a boyfriend",
+    "Spanish": "Tengo un novio"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "She’s my girlfriend",
+    "Spanish": "Es mi novia"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "We are family",
+    "Spanish": "Somos familia"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My son",
+    "Spanish": "Mi hijo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My daughter",
+    "Spanish": "Mi hija"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My husband",
+    "Spanish": "Mi esposo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My wife",
+    "Spanish": "Mi esposa"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have a child",
+    "Spanish": "Tengo un hijo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My parents",
+    "Spanish": "Mis padres"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My grandfather",
+    "Spanish": "Mi abuelo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My grandmother",
+    "Spanish": "Mi abuela"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My uncle",
+    "Spanish": "Mi tío"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My aunt",
+    "Spanish": "Mi tía"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My cousin",
+    "Spanish": "Mi primo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I live with my family",
+    "Spanish": "Vivo con mi familia"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "He’s my best friend",
+    "Spanish": "Es mi mejor amigo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m single",
+    "Spanish": "Estoy soltero"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "We’re engaged",
+    "Spanish": "Estamos comprometidos"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have a big family",
+    "Spanish": "Tengo una familia grande"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My sibling",
+    "Spanish": "Mi hermano"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I call my mom",
+    "Spanish": "Llamo a mi mamá"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I visit my parents",
+    "Spanish": "Visito a mis padres"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "She’s my sister-in-law",
+    "Spanish": "Es mi cuñada"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "He’s my brother-in-law",
+    "Spanish": "Es mi cuñado"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My nephew",
+    "Spanish": "Mi sobrino"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My niece",
+    "Spanish": "Mi sobrina"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m a father",
+    "Spanish": "Soy padre"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m a mother",
+    "Spanish": "Soy madre"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "We’re friends",
+    "Spanish": "Somos amigos"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I trust you",
+    "Spanish": "Confío en ti"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I need you",
+    "Spanish": "Te necesito"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "You’re my family",
+    "Spanish": "Eres mi familia"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My stepfather",
+    "Spanish": "Mi padrastro"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My stepmother",
+    "Spanish": "Mi madrastra"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have two brothers",
+    "Spanish": "Tengo dos hermanos"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "She’s my daughter-in-law",
+    "Spanish": "Es mi nuera"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "He’s my son-in-law",
+    "Spanish": "Es mi yerno"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I love my family",
+    "Spanish": "Amo a mi familia"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My baby",
+    "Spanish": "Mi bebé"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m an only child",
+    "Spanish": "Soy hijo único"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "We’re a couple",
+    "Spanish": "Somos pareja"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have a pet",
+    "Spanish": "Tengo una mascota"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My dog",
+    "Spanish": "Mi perro"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My cat",
+    "Spanish": "Mi gato"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m happy with you",
+    "Spanish": "Estoy feliz contigo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "You’re my friend",
+    "Spanish": "Eres mi amigo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I care about you",
+    "Spanish": "Me importas"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My neighbor",
+    "Spanish": "Mi vecino"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have three sisters",
+    "Spanish": "Tengo tres hermanas"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "She’s my mom",
+    "Spanish": "Es mi mamá"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "He’s my dad",
+    "Spanish": "Es mi papá"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I talk to my friend",
+    "Spanish": "Hablo con mi amigo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "We’re close",
+    "Spanish": "Estamos cerca"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My twin",
+    "Spanish": "Mi gemelo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m married",
+    "Spanish": "Estoy casado"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have kids",
+    "Spanish": "Tengo hijos"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My relatives",
+    "Spanish": "Mis parientes"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m a grandparent",
+    "Spanish": "Soy abuelo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My granddaughter",
+    "Spanish": "Mi nieta"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My grandson",
+    "Spanish": "Mi nieto"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I love my friends",
+    "Spanish": "Amo a mis amigos"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "You’re like family",
+    "Spanish": "Eres como familia"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My partner",
+    "Spanish": "Mi pareja"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m divorced",
+    "Spanish": "Estoy divorciado"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "We’re together",
+    "Spanish": "Estamos juntos"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have a sister-in-law",
+    "Spanish": "Tengo una cuñada"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "He’s my uncle",
+    "Spanish": "Es mi tío"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "She’s my aunt",
+    "Spanish": "Es mi tía"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m a cousin",
+    "Spanish": "Soy primo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My family is here",
+    "Spanish": "Mi familia está aquí"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I call my dad",
+    "Spanish": "Llamo a mi papá"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "We’re happy together",
+    "Spanish": "Estamos felices juntos"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My fiancé",
+    "Spanish": "Mi prometido"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My fiancée",
+    "Spanish": "Mi prometida"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have a stepbrother",
+    "Spanish": "Tengo un hermanastro"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have a stepsister",
+    "Spanish": "Tengo una hermanastra"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My childhood friend",
+    "Spanish": "Mi amigo de la infancia"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m with my family",
+    "Spanish": "Estoy con mi familia"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "You’re my brother",
+    "Spanish": "Eres mi hermano"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "You’re my sister",
+    "Spanish": "Eres mi hermana"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I support you",
+    "Spanish": "Te apoyo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My close friend",
+    "Spanish": "Mi amigo cercano"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have a nephew",
+    "Spanish": "Tengo un sobrino"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I have a niece",
+    "Spanish": "Tengo una sobrina"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My family loves you",
+    "Spanish": "Mi familia te ama"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "We’re a big family",
+    "Spanish": "Somos una familia grande"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m a sibling",
+    "Spanish": "Soy hermano"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My oldest friend",
+    "Spanish": "Mi amigo más viejo"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "I’m here for you",
+    "Spanish": "Estoy aquí para ti"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "My loved ones",
+    "Spanish": "Mis seres queridos"
+  },
+  {
+    "Category": "Family & Relationships",
+    "English": "You’re my everything",
+    "Spanish": "Eres mi todo"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I feel sick",
+    "Spanish": "Me siento enfermo"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "Call a doctor",
+    "Spanish": "Llama a un doctor"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need help",
+    "Spanish": "Necesito ayuda"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "It hurts here",
+    "Spanish": "Me duele aquí"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a fever",
+    "Spanish": "Tengo fiebre"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "Where is the hospital?",
+    "Spanish": "¿Dónde está el hospital?"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m allergic to this",
+    "Spanish": "Soy alérgico a esto"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "Take me to a pharmacy",
+    "Spanish": "Llévame a una farmacia"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I can’t breathe",
+    "Spanish": "No puedo respirar"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "It’s an emergency",
+    "Spanish": "Es una emergencia"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a headache",
+    "Spanish": "Tengo dolor de cabeza"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My stomach hurts",
+    "Spanish": "Me duele el estómago"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need medicine",
+    "Spanish": "Necesito medicina"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m dizzy",
+    "Spanish": "Estoy mareado"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I feel weak",
+    "Spanish": "Me siento débil"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "Call an ambulance",
+    "Spanish": "Llama a una ambulancia"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m bleeding",
+    "Spanish": "Estoy sangrando"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I broke my arm",
+    "Spanish": "Me rompí el brazo"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a cold",
+    "Spanish": "Tengo un resfriado"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m coughing",
+    "Spanish": "Estoy tosiendo"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I sneezed",
+    "Spanish": "Estornudé"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a sore throat",
+    "Spanish": "Tengo dolor de garganta"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a bandage",
+    "Spanish": "Necesito una venda"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "It’s painful",
+    "Spanish": "Es doloroso"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I feel tired",
+    "Spanish": "Me siento cansado"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a cut",
+    "Spanish": "Tengo un corte"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need water",
+    "Spanish": "Necesito agua"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m injured",
+    "Spanish": "Estoy herido"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My back hurts",
+    "Spanish": "Me duele la espalda"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a toothache",
+    "Spanish": "Tengo dolor de muela"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a dentist",
+    "Spanish": "Necesito un dentista"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m not feeling well",
+    "Spanish": "No me siento bien"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a rash",
+    "Spanish": "Tengo un sarpullido"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need to rest",
+    "Spanish": "Necesito descansar"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My leg hurts",
+    "Spanish": "Me duele la pierna"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a burn",
+    "Spanish": "Tengo una quemadura"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I feel hot",
+    "Spanish": "Me siento caliente"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m cold",
+    "Spanish": "Tengo frío"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a doctor now",
+    "Spanish": "Necesito un doctor ahora"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have pain",
+    "Spanish": "Tengo dolor"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My head hurts",
+    "Spanish": "Me duele la cabeza"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m vomiting",
+    "Spanish": "Estoy vomitando"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need pills",
+    "Spanish": "Necesito pastillas"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a stomachache",
+    "Spanish": "Tengo dolor de estómago"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m having an attack",
+    "Spanish": "Estoy teniendo un ataque"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need ice",
+    "Spanish": "Necesito hielo"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My foot hurts",
+    "Spanish": "Me duele el pie"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I can’t move",
+    "Spanish": "No puedo moverme"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I feel faint",
+    "Spanish": "Me siento débil"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a bruise",
+    "Spanish": "Tengo un moretón"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a nurse",
+    "Spanish": "Necesito una enfermera"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m shaking",
+    "Spanish": "Estoy temblando"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have diarrhea",
+    "Spanish": "Tengo diarrea"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a blanket",
+    "Spanish": "Necesito una manta"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My chest hurts",
+    "Spanish": "Me duele el pecho"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I can’t sleep",
+    "Spanish": "No puedo dormir"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have an infection",
+    "Spanish": "Tengo una infección"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need surgery",
+    "Spanish": "Necesito cirugía"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m in pain",
+    "Spanish": "Estoy con dolor"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My ear hurts",
+    "Spanish": "Me duele el oído"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a cramp",
+    "Spanish": "Tengo un calambre"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a check-up",
+    "Spanish": "Necesito un chequeo"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m sweating",
+    "Spanish": "Estoy sudando"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a sprain",
+    "Spanish": "Tengo un esguince"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a shot",
+    "Spanish": "Necesito una inyección"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My throat is sore",
+    "Spanish": "Tengo la garganta irritada"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I feel better",
+    "Spanish": "Me siento mejor"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m recovering",
+    "Spanish": "Me estoy recuperando"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have allergies",
+    "Spanish": "Tengo alergias"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a tissue",
+    "Spanish": "Necesito un pañuelo"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My eyes hurt",
+    "Spanish": "Me duelen los ojos"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I can’t hear",
+    "Spanish": "No puedo oír"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need glasses",
+    "Spanish": "Necesito lentes"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a nosebleed",
+    "Spanish": "Tengo sangrado nasal"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m stressed",
+    "Spanish": "Estoy estresado"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need to lie down",
+    "Spanish": "Necesito acostarme"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My hand hurts",
+    "Spanish": "Me duele la mano"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a blister",
+    "Spanish": "Tengo una ampolla"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need cream",
+    "Spanish": "Necesito crema"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m dehydrated",
+    "Spanish": "Estoy deshidratado"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a cough",
+    "Spanish": "Tengo tos"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a mask",
+    "Spanish": "Necesito una mascarilla"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My neck hurts",
+    "Spanish": "Me duele el cuello"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I feel strange",
+    "Spanish": "Me siento raro"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a virus",
+    "Spanish": "Tengo un virus"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need air",
+    "Spanish": "Necesito aire"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My knee hurts",
+    "Spanish": "Me duele la rodilla"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m scared",
+    "Spanish": "Tengo miedo"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a wheelchair",
+    "Spanish": "Necesito una silla de ruedas"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a fracture",
+    "Spanish": "Tengo una fractura"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m okay now",
+    "Spanish": "Estoy bien ahora"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need a thermometer",
+    "Spanish": "Necesito un termómetro"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "My temperature is high",
+    "Spanish": "Mi temperatura está alta"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a migraine",
+    "Spanish": "Tengo migraña"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I need to see a doctor",
+    "Spanish": "Necesito ver a un doctor"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m feeling bad",
+    "Spanish": "Me siento mal"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I have a problem",
+    "Spanish": "Tengo un problema"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "Help me, please",
+    "Spanish": "Ayúdame, por favor"
+  },
+  {
+    "Category": "Health & Emergencies",
+    "English": "I’m hurt",
+    "Spanish": "Estoy lastimado"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a student",
+    "Spanish": "Soy estudiante"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a job",
+    "Spanish": "Tengo un trabajo"
+  },
+  {
+    "Category": "Work & School",
+    "English": "Where is the office?",
+    "Spanish": "¿Dónde está la oficina?"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a pen",
+    "Spanish": "Necesito un bolígrafo"
+  },
+  {
+    "Category": "Work & School",
+    "English": "Can you help me?",
+    "Spanish": "¿Puedes ayudarme?"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I don’t understand",
+    "Spanish": "No entiendo"
+  },
+  {
+    "Category": "Work & School",
+    "English": "What time is the meeting?",
+    "Spanish": "¿A qué hora es la reunión?"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m late",
+    "Spanish": "Llego tarde"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study English",
+    "Spanish": "Estudio inglés"
+  },
+  {
+    "Category": "Work & School",
+    "English": "Good luck",
+    "Spanish": "Buena suerte"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I work here",
+    "Spanish": "Trabajo aquí"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a teacher",
+    "Spanish": "Soy maestro"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a notebook",
+    "Spanish": "Necesito un cuaderno"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have homework",
+    "Spanish": "Tengo tarea"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m in class",
+    "Spanish": "Estoy en clase"
+  },
+  {
+    "Category": "Work & School",
+    "English": "Where is the classroom?",
+    "Spanish": "¿Dónde está el salón?"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a test",
+    "Spanish": "Tengo un examen"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need to study",
+    "Spanish": "Necesito estudiar"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I work hard",
+    "Spanish": "Trabajo duro"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m busy",
+    "Spanish": "Estoy ocupado"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a break",
+    "Spanish": "Necesito un descanso"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a manager",
+    "Spanish": "Soy gerente"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a deadline",
+    "Spanish": "Tengo una fecha límite"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I write a report",
+    "Spanish": "Escribo un informe"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m at school",
+    "Spanish": "Estoy en la escuela"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a pencil",
+    "Spanish": "Necesito un lápiz"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I learn fast",
+    "Spanish": "Aprendo rápido"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a question",
+    "Spanish": "Tengo una pregunta"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m tired from work",
+    "Spanish": "Estoy cansado del trabajo"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I go to school",
+    "Spanish": "Voy a la escuela"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a computer",
+    "Spanish": "Necesito una computadora"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a worker",
+    "Spanish": "Soy trabajador"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a meeting",
+    "Spanish": "Tengo una reunión"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study at home",
+    "Spanish": "Estudio en casa"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need paper",
+    "Spanish": "Necesito papel"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m on a team",
+    "Spanish": "Estoy en un equipo"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I work late",
+    "Spanish": "Trabajo hasta tarde"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a project",
+    "Spanish": "Tengo un proyecto"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need to finish",
+    "Spanish": "Necesito terminar"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a classmate",
+    "Spanish": "Soy compañero de clase"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I read for school",
+    "Spanish": "Leo para la escuela"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m at the desk",
+    "Spanish": "Estoy en el escritorio"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a book",
+    "Spanish": "Necesito un libro"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I work from home",
+    "Spanish": "Trabajo desde casa"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a boss",
+    "Spanish": "Tengo un jefe"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m studying now",
+    "Spanish": "Estoy estudiando ahora"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a calculator",
+    "Spanish": "Necesito una calculadora"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a colleague",
+    "Spanish": "Soy colega"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I take notes",
+    "Spanish": "Tomo notas"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have an exam",
+    "Spanish": "Tengo un examen"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need to learn",
+    "Spanish": "Necesito aprender"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m in a group",
+    "Spanish": "Estoy en un grupo"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I work every day",
+    "Spanish": "Trabajo todos los días"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a chair",
+    "Spanish": "Necesito una silla"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a professor",
+    "Spanish": "Soy profesor"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a schedule",
+    "Spanish": "Tengo un horario"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study math",
+    "Spanish": "Estudio matemáticas"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need help with this",
+    "Spanish": "Necesito ayuda con esto"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m at the library",
+    "Spanish": "Estoy en la biblioteca"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a presentation",
+    "Spanish": "Tengo una presentación"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I work part-time",
+    "Spanish": "Trabajo medio tiempo"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a ruler",
+    "Spanish": "Necesito una regla"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a beginner",
+    "Spanish": "Soy principiante"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a task",
+    "Spanish": "Tengo una tarea"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study science",
+    "Spanish": "Estudio ciencias"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a marker",
+    "Spanish": "Necesito un marcador"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m in a course",
+    "Spanish": "Estoy en un curso"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I work with people",
+    "Spanish": "Trabajo con gente"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a stapler",
+    "Spanish": "Necesito una grapadora"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a teammate",
+    "Spanish": "Soy compañero de equipo"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a lesson",
+    "Spanish": "Tengo una lección"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study history",
+    "Spanish": "Estudio historia"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a backpack",
+    "Spanish": "Necesito una mochila"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m at work now",
+    "Spanish": "Estoy en el trabajo ahora"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have an assignment",
+    "Spanish": "Tengo una asignación"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study languages",
+    "Spanish": "Estudio idiomas"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a desk",
+    "Spanish": "Necesito un escritorio"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a secretary",
+    "Spanish": "Soy secretario"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a client",
+    "Spanish": "Tengo un cliente"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study online",
+    "Spanish": "Estudio en línea"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need scissors",
+    "Spanish": "Necesito tijeras"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a volunteer",
+    "Spanish": "Soy voluntario"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a shift",
+    "Spanish": "Tengo un turno"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study art",
+    "Spanish": "Estudio arte"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a board",
+    "Spanish": "Necesito un pizarrón"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m an employee",
+    "Spanish": "Soy empleado"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a contract",
+    "Spanish": "Tengo un contrato"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study music",
+    "Spanish": "Estudio música"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a clock",
+    "Spanish": "Necesito un reloj"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a leader",
+    "Spanish": "Soy líder"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a goal",
+    "Spanish": "Tengo una meta"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study every night",
+    "Spanish": "Estudio todas las noches"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a folder",
+    "Spanish": "Necesito una carpeta"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m a tutor",
+    "Spanish": "Soy tutor"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a quiz",
+    "Spanish": "Tengo un cuestionario"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I study with friends",
+    "Spanish": "Estudio con amigos"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I need a lamp",
+    "Spanish": "Necesito una lámpara"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I’m ready for work",
+    "Spanish": "Estoy listo para el trabajo"
+  },
+  {
+    "Category": "Work & School",
+    "English": "I have a job interview",
+    "Spanish": "Tengo una entrevista de trabajo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m happy",
+    "Spanish": "Estoy feliz"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m sad",
+    "Spanish": "Estoy triste"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I like it",
+    "Spanish": "Me gusta"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t like it",
+    "Spanish": "No me gusta"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m tired",
+    "Spanish": "Estoy cansado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I think so",
+    "Spanish": "Pienso que sí"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t know",
+    "Spanish": "No sé"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s beautiful",
+    "Spanish": "Es hermoso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m excited",
+    "Spanish": "Estoy emocionado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I agree",
+    "Spanish": "Estoy de acuerdo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m angry",
+    "Spanish": "Estoy enojado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel good",
+    "Spanish": "Me siento bien"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m scared",
+    "Spanish": "Tengo miedo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t think so",
+    "Spanish": "No pienso que sí"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s great",
+    "Spanish": "Es genial"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m nervous",
+    "Spanish": "Estoy nervioso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I love it",
+    "Spanish": "Lo amo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m bored",
+    "Spanish": "Estoy aburrido"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I disagree",
+    "Spanish": "No estoy de acuerdo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s okay",
+    "Spanish": "Está bien"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m surprised",
+    "Spanish": "Estoy sorprendido"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel bad",
+    "Spanish": "Me siento mal"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m calm",
+    "Spanish": "Estoy tranquilo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s terrible",
+    "Spanish": "Es terrible"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m confused",
+    "Spanish": "Estoy confundido"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I like this",
+    "Spanish": "Me gusta esto"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m worried",
+    "Spanish": "Estoy preocupado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s funny",
+    "Spanish": "Es gracioso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m proud",
+    "Spanish": "Estoy orgulloso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t care",
+    "Spanish": "No me importa"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel great",
+    "Spanish": "Me siento genial"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m shy",
+    "Spanish": "Soy tímido"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s amazing",
+    "Spanish": "Es increíble"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m upset",
+    "Spanish": "Estoy molesto"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I think it’s good",
+    "Spanish": "Pienso que es bueno"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m relaxed",
+    "Spanish": "Estoy relajado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s bad",
+    "Spanish": "Es malo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m hopeful",
+    "Spanish": "Tengo esperanza"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t agree",
+    "Spanish": "No estoy de acuerdo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel safe",
+    "Spanish": "Me siento seguro"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m stressed",
+    "Spanish": "Estoy estresado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s interesting",
+    "Spanish": "Es interesante"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m lonely",
+    "Spanish": "Me siento solo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I like that",
+    "Spanish": "Me gusta eso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m annoyed",
+    "Spanish": "Estoy molesto"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s boring",
+    "Spanish": "Es aburrido"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel strong",
+    "Spanish": "Me siento fuerte"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m curious",
+    "Spanish": "Estoy curioso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t mind",
+    "Spanish": "No me importa"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s cool",
+    "Spanish": "Es genial"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m frustrated",
+    "Spanish": "Estoy frustrado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel happy",
+    "Spanish": "Me siento feliz"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m jealous",
+    "Spanish": "Estoy celoso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s nice",
+    "Spanish": "Es agradable"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m fine",
+    "Spanish": "Estoy bien"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I think it’s bad",
+    "Spanish": "Pienso que es malo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m sleepy",
+    "Spanish": "Tengo sueño"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s ugly",
+    "Spanish": "Es feo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel weak",
+    "Spanish": "Me siento débil"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m sure",
+    "Spanish": "Estoy seguro"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t understand",
+    "Spanish": "No entiendo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s perfect",
+    "Spanish": "Es perfecto"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m embarrassed",
+    "Spanish": "Estoy avergonzado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel sad",
+    "Spanish": "Me siento triste"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m hungry",
+    "Spanish": "Tengo hambre"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s strange",
+    "Spanish": "Es extraño"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m grateful",
+    "Spanish": "Estoy agradecido"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t want it",
+    "Spanish": "No lo quiero"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel tired",
+    "Spanish": "Me siento cansado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m thirsty",
+    "Spanish": "Tengo sed"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s awesome",
+    "Spanish": "Es increíble"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m disappointed",
+    "Spanish": "Estoy decepcionado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I think it’s funny",
+    "Spanish": "Pienso que es gracioso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m energetic",
+    "Spanish": "Estoy lleno de energía"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s sad",
+    "Spanish": "Es triste"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel nervous",
+    "Spanish": "Me siento nervioso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m patient",
+    "Spanish": "Soy paciente"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t feel good",
+    "Spanish": "No me siento bien"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s exciting",
+    "Spanish": "Es emocionante"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m impatient",
+    "Spanish": "Estoy impaciente"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel scared",
+    "Spanish": "Me siento asustado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m cheerful",
+    "Spanish": "Estoy alegre"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s difficult",
+    "Spanish": "Es difícil"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m satisfied",
+    "Spanish": "Estoy satisfecho"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t like this",
+    "Spanish": "No me gusta esto"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel angry",
+    "Spanish": "Me siento enojado"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m optimistic",
+    "Spanish": "Soy optimista"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s easy",
+    "Spanish": "Es fácil"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m pessimistic",
+    "Spanish": "Soy pesimista"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel calm",
+    "Spanish": "Me siento tranquilo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m silly",
+    "Spanish": "Soy tonto"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s wonderful",
+    "Spanish": "Es maravilloso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m serious",
+    "Spanish": "Soy serio"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel bored",
+    "Spanish": "Me siento aburrido"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m brave",
+    "Spanish": "Soy valiente"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I don’t think it’s good",
+    "Spanish": "No pienso que es bueno"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I feel proud",
+    "Spanish": "Me siento orgulloso"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "I’m ready",
+    "Spanish": "Estoy listo"
+  },
+  {
+    "Category": "Feelings & Opinions",
+    "English": "It’s fantastic",
+    "Spanish": "Es fantástico"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What time is it?",
+    "Spanish": "¿Qué hora es?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s sunny",
+    "Spanish": "Está soleado"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s raining",
+    "Spanish": "Está lloviendo"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s cold",
+    "Spanish": "Hace frío"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s hot",
+    "Spanish": "Hace calor"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "See you tomorrow",
+    "Spanish": "Nos vemos mañana"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What day is it?",
+    "Spanish": "¿Qué día es?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s windy",
+    "Spanish": "Hace viento"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "I’ll be there soon",
+    "Spanish": "Estaré ahí pronto"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "The weather is nice",
+    "Spanish": "El clima está bueno"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s 3 o’clock",
+    "Spanish": "Son las 3 en punto"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s snowing",
+    "Spanish": "Está nevando"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s cloudy",
+    "Spanish": "Está nublado"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "I’m late",
+    "Spanish": "Llego tarde"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What’s the date?",
+    "Spanish": "¿Cuál es la fecha?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s warm",
+    "Spanish": "Hace calor"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "See you later",
+    "Spanish": "Nos vemos después"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a nice day",
+    "Spanish": "Es un día bonito"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s foggy",
+    "Spanish": "Hay niebla"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "I’ll call you tonight",
+    "Spanish": "Te llamo esta noche"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s morning",
+    "Spanish": "Es de mañana"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s humid",
+    "Spanish": "Está húmedo"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What month is it?",
+    "Spanish": "¿Qué mes es?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s evening",
+    "Spanish": "Es de tarde"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "I’m early",
+    "Spanish": "Llego temprano"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a stormy day",
+    "Spanish": "Es un día tormentoso"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s 5:30",
+    "Spanish": "Son las 5:30"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s dry",
+    "Spanish": "Está seco"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "See you next week",
+    "Spanish": "Nos vemos la próxima semana"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "The weather is bad",
+    "Spanish": "El clima está malo"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s noon",
+    "Spanish": "Es mediodía"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s freezing",
+    "Spanish": "Está helado"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What year is it?",
+    "Spanish": "¿Qué año es?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s night",
+    "Spanish": "Es de noche"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "I’ll see you soon",
+    "Spanish": "Te veo pronto"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a sunny day",
+    "Spanish": "Es un día soleado"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s 10:15",
+    "Spanish": "Son las 10:15"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s cool",
+    "Spanish": "Está fresco"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "See you in an hour",
+    "Spanish": "Nos vemos en una hora"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "The weather is changing",
+    "Spanish": "El clima está cambiando"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s midnight",
+    "Spanish": "Es medianoche"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a rainy day",
+    "Spanish": "Es un día lluvioso"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What time do you wake up?",
+    "Spanish": "¿A qué hora te despiertas?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s breezy",
+    "Spanish": "Hay brisa"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "I’ll be there at 6",
+    "Spanish": "Estaré ahí a las 6"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a cold day",
+    "Spanish": "Es un día frío"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s 7:45",
+    "Spanish": "Son las 7:45"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s clear",
+    "Spanish": "Está despejado"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "See you this afternoon",
+    "Spanish": "Nos vemos esta tarde"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "The weather is hot",
+    "Spanish": "El clima está caliente"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s almost time",
+    "Spanish": "Ya casi es hora"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a windy day",
+    "Spanish": "Es un día ventoso"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What’s the forecast?",
+    "Spanish": "¿Cuál es el pronóstico?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s 1 o’clock",
+    "Spanish": "Es la 1 en punto"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s overcast",
+    "Spanish": "Está cubierto"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "I’ll meet you tomorrow",
+    "Spanish": "Te encontraré mañana"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a warm day",
+    "Spanish": "Es un día cálido"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s 8:20",
+    "Spanish": "Son las 8:20"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s getting cold",
+    "Spanish": "Se está poniendo frío"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "See you next month",
+    "Spanish": "Nos vemos el próximo mes"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "The weather is cool",
+    "Spanish": "El clima está fresco"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s time to go",
+    "Spanish": "Es hora de ir"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a hot day",
+    "Spanish": "Es un día caluroso"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What time do you sleep?",
+    "Spanish": "¿A qué hora duermes?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s getting dark",
+    "Spanish": "Se está oscureciendo"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "I’ll call this morning",
+    "Spanish": "Llamaré esta mañana"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a cloudy day",
+    "Spanish": "Es un día nublado"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s 11:50",
+    "Spanish": "Son las 11:50"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s sunny outside",
+    "Spanish": "Está soleado afuera"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "See you next year",
+    "Spanish": "Nos vemos el próximo año"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "The weather is rainy",
+    "Spanish": "El clima está lluvioso"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s half past 2",
+    "Spanish": "Son las 2:30"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s getting warm",
+    "Spanish": "Se está calentando"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What time is the meeting?",
+    "Spanish": "¿A qué hora es la reunión?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a snowy day",
+    "Spanish": "Es un día nevoso"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s 4:10",
+    "Spanish": "Son las 4:10"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s pleasant",
+    "Spanish": "Es agradable"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "I’ll see you at noon",
+    "Spanish": "Te veo al mediodía"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "The weather is windy",
+    "Spanish": "El clima está ventoso"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s quarter to 9",
+    "Spanish": "Son las 9 menos cuarto"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s getting late",
+    "Spanish": "Se está haciendo tarde"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What time do you work?",
+    "Spanish": "¿A qué hora trabajas?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a foggy day",
+    "Spanish": "Es un día con niebla"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s 6:25",
+    "Spanish": "Son las 6:25"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s mild",
+    "Spanish": "Está templado"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "See you this evening",
+    "Spanish": "Nos vemos esta noche"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "The weather is snowy",
+    "Spanish": "El clima está nevoso"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s quarter past 3",
+    "Spanish": "Son las 3:15"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s getting hot",
+    "Spanish": "Se está calentando"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What day is tomorrow?",
+    "Spanish": "¿Qué día es mañana?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a stormy night",
+    "Spanish": "Es una noche tormentosa"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s 12:05",
+    "Spanish": "Son las 12:05"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s nice outside",
+    "Spanish": "Está bonito afuera"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "I’ll be there tonight",
+    "Spanish": "Estaré ahí esta noche"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "The weather is cloudy",
+    "Spanish": "El clima está nublado"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s almost 5",
+    "Spanish": "Ya casi son las 5"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s a cool night",
+    "Spanish": "Es una noche fresca"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "What time do you eat?",
+    "Spanish": "¿A qué hora comes?"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "It’s getting windy",
+    "Spanish": "Se está poniendo ventoso"
+  },
+  {
+    "Category": "Time & Weather",
+    "English": "See you in the morning",
+    "Spanish": "Nos vemos en la mañana"
+  }
+]
